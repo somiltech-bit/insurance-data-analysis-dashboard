@@ -10,7 +10,7 @@ The original Power BI (.pbix) file is stored externally due to GitHub file size 
 
 🔗 Power BI File Link:
 
-[Open Power BI Dashboard]([https://app.powerbi.com/groups/me/reports/9292f55c-a5df-4a53-856d-7809dfb36153/ebf39d5290ddc06e0cd7?experience=power-bi])
+[Open Power BI Dashboard]((https://app.powerbi.com/groups/me/reports/9292f55c-a5df-4a53-856d-7809dfb36153/ebf39d5290ddc06e0cd7?experience=power-bi))
 
 ---
 
